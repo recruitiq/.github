@@ -1,6 +1,4 @@
-<br/>
 <img src="../assets/icons/logo-with-text.png" alt="RecruitIQ Logo" width="140"/>
-<br/>
 Empowering Recruitment. Enhancing Careers ✨  ✨ 
 <br/>
 <br/>
