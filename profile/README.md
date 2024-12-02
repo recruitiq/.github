@@ -1,5 +1,6 @@
-<img src="../assets/icons/logo-with-text.png" alt="RecruitIQ Logo" width="140"/>
-Empowering Recruitment. Enhancing Careers ✨  ✨ 
+<img src="../assets/icons/logo-with-text.png" alt="RecruitIQ Logo" width="140"/> 
+Empowering Recruitment. Enhancing Careers ✨  ✨
+
 <br/>
 <br/>
 
@@ -74,8 +75,6 @@ Simulate realistic interviews with tailored voices and personas, offering an aut
 - **Results Sharing**: Seamlessly share AI results and resume screenings with relevant stakeholders.
 
 ![Placeholder: Results Sharing Screenshot](#)
-
-> _Replace placeholders with actual images showcasing RecruitIQ's cutting-edge capabilities._
 
 ## 📩 **Contact Us**
 
