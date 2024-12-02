@@ -54,19 +54,19 @@ Discover how RecruitIQ empowers job seekers and recruiters with intuitive workfl
 
 Easily create job descriptions, screen resumes, and set up AI interviews with a streamlined and user-friendly interface.
 
-![Placeholder: Workflow Screenshot](#)
+![Workflow Screenshot](#)
 
 ### 📊 Job and Resume Insights
 
 Get detailed insights into job requirements and candidate profiles with AI-driven analysis for smarter hiring decisions.
 
-![Placeholder: Insights Screenshot](#)
+![Insights Screenshot](#)
 
 ### 🎙️ AI Interviews with Suitable Voices and Personas
 
 Simulate realistic interviews with tailored voices and personas, offering an authentic experience for job seekers.
 
-![Placeholder: AI Interview Screenshot](#)
+![AI Interview Screenshot](#)
 
 ### 📈 Real-Time Assessments and Results Sharing
 
@@ -74,7 +74,7 @@ Simulate realistic interviews with tailored voices and personas, offering an aut
 - **AI Interview Assessment**: Evaluate performance instantly with detailed analysis.
 - **Results Sharing**: Seamlessly share AI results and resume screenings with relevant stakeholders.
 
-![Placeholder: Results Sharing Screenshot](#)
+![Results Sharing Screenshot](#)
 
 ## 📩 **Contact Us**
 
