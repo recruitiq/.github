@@ -1,6 +1,7 @@
-<img src="../assets/icons/logo-with-text.png" alt="RecruitIQ Logo" width="140"/> 
-Empowering Recruitment. Enhancing Careers ✨  ✨
-
+<br/>
+<img src="../assets/icons/logo-with-text.png" alt="RecruitIQ Logo" width="140"/>
+<br/>
+Empowering Recruitment. Enhancing Careers ✨  ✨ 
 <br/>
 <br/>
 
@@ -8,18 +9,18 @@ Empowering Recruitment. Enhancing Careers ✨  ✨
 
 🚀 Welcome to **RecruitIQ**, the ultimate AI-powered platform designed to revolutionize the recruitment process and job search experience. Whether you're a job seeker aiming for your dream role or a recruiter looking to streamline candidate evaluation, RecruitIQ has got you covered.
 
-## 🌟 **Key Features for Job Seekers and Recruiters**
+<div align="center">
+    <br/>
+    <img src="../assets/gifs/job-seekers.gif" alt="Recruiter GIF" width="140"/>
+    <br/>
+    <h2>🎯 <strong>For Job Seekers</strong></h2>
+    <p><strong>Job seekers are individuals actively seeking employment opportunities. RecruitIQ empowers them with tailored tools to enhance their job search process and interview preparation.</strong></p>
+</div>
 
-### 🎯 **For Job Seekers**
-
-Job seekers are individuals actively seeking employment opportunities. RecruitIQ empowers them with tailored tools to enhance their job search process and interview preparation.
-
-| **Feature**                        | **Description**                                                                               |
-| ---------------------------------- | --------------------------------------------------------------------------------------------- |
-| **AI-Powered Practice Interviews** | Simulate real interview scenarios tailored to your industry and role.                         |
-| **Resume Screening**               | Compare your resume against job descriptions to identify strengths and areas for improvement. |
-| **Job Description Analysis**       | Import job descriptions to uncover key requirements and prepare effectively.                  |
-| **Actionable Feedback**            | Receive detailed insights to refine your interview performance and job application.           |
+- **AI-Powered Practice Interviews**: Simulate real interview scenarios tailored to your industry and role.
+- **Resume Screening**: Compare your resume against job descriptions to identify strengths and areas for improvement.
+- **Job Description Analysis**: Import job descriptions to uncover key requirements and prepare effectively.
+- **Actionable Feedback**: Receive detailed insights to refine your interview performance and job application.
 
 _🌟 How it works?_
 
@@ -28,16 +29,18 @@ _🌟 How it works?_
 3. **Screen Your Resume**: Analyze your resume for alignment with job requirements.
 4. **Practice Interviews**: Engage in AI-powered interview simulations and receive actionable feedback.
 
-### 🤝 **For Recruiters**
+<div align="center">
+    <br/>
+    <img src="../assets/gifs/recruiters.gif" alt="Recruiter GIF" width="140"/>
+    <br/>
+    <h2>🤝 <strong>For Recruiters</strong></h2>
+    <p><strong>Recruiters are HR professionals and hiring managers responsible for finding the best talent. RecruitIQ equips them with powerful AI tools to streamline the recruitment process and make data-driven hiring decisions.</strong></p>
+</div>
 
-Recruiters are HR professionals and hiring managers responsible for finding the best talent. RecruitIQ equips them with powerful AI tools to streamline the recruitment process and make data-driven hiring decisions.
-
-| **Feature**                    | **Description**                                                                        |
-| ------------------------------ | -------------------------------------------------------------------------------------- |
-| **Job Description Generation** | Create compelling job descriptions in minutes with AI assistance.                      |
-| **Resume Screening**           | Analyze multiple resumes efficiently to identify top candidates.                       |
-| **AI Screening Interviews**    | Generate AI-driven interviews and share links with candidates for seamless evaluation. |
-| **Performance Metrics**        | Leverage detailed candidate assessments to make informed hiring decisions.             |
+- **Job Description Generation**: Create compelling job descriptions in minutes with AI assistance.
+- **Resume Screening**: Analyze multiple resumes efficiently to identify top candidates.
+- **AI Screening Interviews**: Generate AI-driven interviews and share links with candidates for seamless evaluation.
+- **Performance Metrics**: Leverage detailed candidate assessments to make informed hiring decisions.
 
 _🌟 How it works?_
 
@@ -75,6 +78,8 @@ Simulate realistic interviews with tailored voices and personas, offering an aut
 - **Results Sharing**: Seamlessly share AI results and resume screenings with relevant stakeholders.
 
 ![Results Sharing Screenshot](#)
+
+> _Replace placeholders with actual images showcasing RecruitIQ's cutting-edge capabilities._
 
 ## 📩 **Contact Us**
 
