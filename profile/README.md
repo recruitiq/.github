@@ -3,7 +3,7 @@ Empowering Recruitment. Enhancing Careers ✨  ✨
 <br/>
 <br/>
 
-# AI-Driven Agentic Job Search and Recruitment Platform
+# AI-Driven Agentic Job Search and Recruitment
 
 🚀 Welcome to **RecruitIQ**, the ultimate AI-powered platform designed to revolutionize the recruitment process and job search experience. Whether you're a job seeker aiming for your dream role or a recruiter looking to streamline candidate evaluation, RecruitIQ has got you covered.
 
