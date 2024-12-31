@@ -11,7 +11,7 @@ Empowering Recruitment. Enhancing Careers ✨  ✨
 
 <div align="center">
     <br/>
-    <img src="../assets/gifs/job-seekers.gif" alt="Recruiter GIF" width="400"/>
+    <img src="../assets/gifs/job-seekers.gif" alt="Recruiter GIF" width="200"/>
     <br/>
     <h2>🎯 <strong>For Job Seekers</strong></h2>
     <p><strong>Job seekers are individuals actively seeking employment opportunities. RecruitIQ empowers them with tailored tools to enhance their job search process and interview preparation.</strong></p>
@@ -31,7 +31,7 @@ _🌟 How it works?_
 
 <div align="center">
     <br/>
-    <img src="../assets/gifs/recruiters.gif" alt="Recruiter GIF" width="400"/>
+    <img src="../assets/gifs/recruiters.gif" alt="Recruiter GIF" width="200"/>
     <br/>
     <h2>🤝 <strong>For Recruiters</strong></h2>
     <p><strong>Recruiters are HR professionals and hiring managers responsible for finding the best talent. RecruitIQ equips them with powerful AI tools to streamline the recruitment process and make data-driven hiring decisions.</strong></p>
